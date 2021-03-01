@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "html-pdf": "^2.2.0",
+    "https": "^1.0.0",
+    "math": "0.0.3",
+    "mysql": "^2.18.1",
+    "pdfkit": "^0.11.0",
+    "request": "^2.88.2",
+    "stream": "0.0.2"
+  }
+}
